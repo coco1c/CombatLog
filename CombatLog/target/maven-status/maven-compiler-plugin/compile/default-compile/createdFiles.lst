@@ -1,0 +1,6 @@
+com\coco\listeners\ReloadCMD.class
+com\coco\CombatLog.class
+com\coco\listeners\CombatListener.class
+com\coco\logic\UntagTask.class
+com\coco\logic\CombatTag.class
+com\coco\logic\CombatTagManager.class

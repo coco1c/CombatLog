@@ -1,0 +1,15 @@
+combat-check-interval: 5 # in ticks
+tag-time: 5000 #in ms
+executable-commands-during-combat:
+  - '/msg'
+  - '/r'
+messages:
+  cannot-execute-during-combat: "&cYou cannot execute this command during combat."
+  in-combat-quit-warning: "&cYou are currently in combat. Do not quit the game."
+  combat-ended: "&cYou are no longer in combat. You are safe now."
+  cannot-open-inventory: "&cYou cannot open your inventory during combat."
+  cannot-teleport: "&cYou cannot teleport while in combat."
+timer:
+  format: '&cYou are in combat for &f{time}s'
+disabled-worlds:
+  - world.example.name
